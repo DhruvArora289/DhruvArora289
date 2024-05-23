@@ -21,6 +21,9 @@
 </p>
 
 
-
+## 🌟 Projects
+### Live Code Editor (https://dhruvarora289.github.io/Live-Code-Editor/)
+### Github API (https://dhruvarora289.github.io/Github-Api/)
+### Type Test App (https://dhruvarora289.github.io/Type-Test-App/)
 
 
